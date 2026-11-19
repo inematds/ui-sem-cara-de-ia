@@ -12,7 +12,7 @@ UI sin cara de IA es un kit gratuito para quienes crean sitios web y aplicacione
 
 Guía completa: **https://inematds.github.io/ui-sem-cara-de-ia/guia/es/**
 
-<!-- VIDEO: entra o explicavideo do projeto quando publicado -->
+[🎬 Video: mira el kit en acción](https://www.youtube.com/watch?v=blXnqoGoltM)
 
 ## Pídele a tu IA que lo analice
 

@@ -12,7 +12,7 @@ UI Without the AI Look is a free toolkit for people who build websites and apps 
 
 Full guide: **https://inematds.github.io/ui-sem-cara-de-ia/guia/en/**
 
-<!-- VIDEO: entra o explicavideo do projeto quando publicado -->
+[🎬 Video: see the kit in action](https://www.youtube.com/watch?v=blXnqoGoltM)
 
 ## Ask your AI to analyze it
 
